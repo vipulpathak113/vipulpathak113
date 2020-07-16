@@ -8,3 +8,5 @@ I am Vipul Pathak , a Computer Science and Engineering graduate 🧑‍🎓. I a
 ⚡ Fun fact:  I talk a lot. I am a chill person with great humor.</br>
 
 I have Spoken!!! May the force be with you......
+
+![Visitor Count](https://profile-counter.glitch.me/{vipulpathak113}/count.svg)
