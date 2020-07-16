@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **anything. If I didn't know maybe I will learn something new!**
 
-- 📫 How to reach me **vipulpathak113@gmail.com**
+- 📫 How to reach me: **vipulpathak113@gmail.com**
 
-- ⚡ Fun fact **I talk a lot. I am a chill person with great humor.**
+- ⚡ Fun fact: **I talk a lot. I am a chill person with great humor.**
 
 <p align="center"><strong>Technology Stack</strong></p>
 
