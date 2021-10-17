@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [React Hooks Context Project](https://github.com/vipulpathak113/ReactHookContext)
 
-- 🌱 I’m currently learning **React Hooks and Context**
+- 🌱 I’m currently learning **usage of Hooks, Context and new things introduced in the React**
 
 - ⚡ Fun fact **I am a chill person with great humor.**
 <hr>
