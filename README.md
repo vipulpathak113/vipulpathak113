@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulpathak113" alt="vipulpathak113" /> </p>
 
-- 🔭 I’m currently working on [Spring Project](https://github.com/vipulpathak113/SpringProject)
+- 🔭 I’m currently working on [React Hooks Context Project](https://github.com/vipulpathak113/ReactHookContext)
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **React Hooks and Context**
 
 - ⚡ Fun fact **I am a chill person with great humor.**
 <hr>
