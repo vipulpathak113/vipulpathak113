@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>🔭 I’m currently working on React storybook<br>🌱 I’m currently learning **usage of Microfrontend, Component Library using Typescripts and NextJs**<br>⚡ Fun fact **I am a chill person with great humor.
+Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>🔭 I’m currently working on React accessibility<br>🌱 I’m currently learning **Web accessibility Principles**<br>⚡ Fun fact **I am a chill person with great humor**.
 
 
 ## 🌐 Socials:
