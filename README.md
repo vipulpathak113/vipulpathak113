@@ -21,3 +21,5 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vipulpathak113&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://app.daily.dev/Vipul_Pathak"><img src="https://api.daily.dev/devcards/dc28de6463774969b6de375314d23cbc.png?r=yw6" width="400" alt="Vipul Pathak's Dev Card"/></a>
