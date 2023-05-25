@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>🔭 I’m currently learning **GraphQL**<br>⚡ Fun fact **I am a chill person with great humour**.
+Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>⚡ Fun fact **I am a chill person with great humour**.
 
 
 ## 🌐 Socials:
@@ -81,12 +81,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
-
 
  Last Updated on 25/05/2023 18:19:04 UTC
 <!--END_SECTION:waka-->
