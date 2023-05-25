@@ -81,10 +81,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
-
  Last Updated on 25/05/2023 18:19:04 UTC
 <!--END_SECTION:waka-->
 
