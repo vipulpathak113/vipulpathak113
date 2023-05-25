@@ -14,15 +14,81 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 319.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 63 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-From: 29 April 2023 - To: 24 May 2023
+🌞 Morning                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌆 Daytime                193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌃 Evening                414 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  365 commits         █████████░░░░░░░░░░░░░░░░   35.03 % 
+```
+📅 **I'm Most Productive on Sunday** 
 
-Total Time: 0 secs
-
-No activity tracked
+```text
+Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Sunday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████████░░░░░░░░░   63.16 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
+
+
+ Last Updated on 25/05/2023 18:19:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
