@@ -16,6 +16,10 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 <!--START_SECTION:waka-->
 
 ```text
+From: 29 April 2023 - To: 24 May 2023
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
