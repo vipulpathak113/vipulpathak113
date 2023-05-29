@@ -14,7 +14,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -59,21 +59,22 @@ Sunday                   210 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████░░░░░░░░░░   58.06 % 
-JavaScript               5 mins              ████████░░░░░░░░░░░░░░░░░   32.13 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     56 mins             ██████████████████░░░░░░░   70.96 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FrontendInterviewQuestion17 mins             ████████████████████████░   97.14 % 
-next-auth-learning       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+kubernetes-proj          58 mins             ██████████████████░░░░░░░   72.44 % 
+FrontendInterviewQuestion17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+next-auth-learning       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +94,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2023 18:37:29 UTC
+ Last Updated on 29/05/2023 06:09:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
