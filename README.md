@@ -2,6 +2,8 @@
 # 💫 About Me:
 Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>⚡ Fun fact **I am a chill person with great humour**.
 
+**Please give stars🌟 to repos if you like or follow my projects 🥹**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-pathak-798150ba) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11318137) 
