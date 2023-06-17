@@ -16,7 +16,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -61,19 +61,19 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 52 mins        ██████████████████████░░░   89.30 % 
-YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown                 2 hrs 17 mins       ███████████████████████░░   90.86 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kubernetes-proj          1 hr 37 mins        ███████████████████░░░░░░   76.98 % 
-nestjs-learning          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+kubernetes-proj          1 hr 29 mins        ███████████████░░░░░░░░░░   59.26 % 
+nestjs-learning          1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2023 01:21:24 UTC
+ Last Updated on 17/06/2023 01:16:50 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
