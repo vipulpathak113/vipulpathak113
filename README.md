@@ -16,7 +16,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -61,18 +61,18 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 47 mins        █████████████████████████   99.69 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 1 hr 31 mins        █████████████████████████   99.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nestjs-learning          1 hr 47 mins        █████████████████████████   99.69 % 
-kubernetes-proj          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+nestjs-learning          1 hr 31 mins        █████████████████████████   99.64 % 
+kubernetes-proj          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2023 01:18:47 UTC
+ Last Updated on 21/06/2023 01:22:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
