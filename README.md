@@ -16,7 +16,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -26,7 +26,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 > 📦 325.2 kB Used in GitHub's Storage 
  > 
-> 🏆 266 Contributions in the Year 2023
+> 🏆 267 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -37,21 +37,21 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-🌆 Daytime                195 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-🌃 Evening                431 commits         ██████████░░░░░░░░░░░░░░░   40.13 % 
-🌙 Night                  377 commits         █████████░░░░░░░░░░░░░░░░   35.10 % 
+🌞 Morning                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                195 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌃 Evening                431 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌙 Night                  378 commits         █████████░░░░░░░░░░░░░░░░   35.16 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Friday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Saturday                 63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Thursday                 212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Friday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Saturday                 63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
 ```
 
 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2023 01:22:24 UTC
+ Last Updated on 22/06/2023 01:22:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
