@@ -18,7 +18,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -61,18 +61,18 @@ Sunday                   216 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ███████████████████████░░   93.02 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 1 hr 48 mins        ███████████████████████░░   92.17 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kubernetes-proj          1 hr 34 mins        ██████████████████░░░░░░░   71.83 % 
-nestjs-learning          37 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+kubernetes-proj          1 hr 20 mins        █████████████████░░░░░░░░   68.41 % 
+nestjs-learning          37 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 01:28:47 UTC
+ Last Updated on 30/06/2023 01:27:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
