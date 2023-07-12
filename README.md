@@ -61,17 +61,16 @@ Sunday                   216 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   98.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-next-auth-example        0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +90,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2023 01:24:32 UTC
+ Last Updated on 12/07/2023 01:30:22 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
