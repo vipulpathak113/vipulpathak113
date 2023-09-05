@@ -16,7 +16,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,20 @@ Sunday                   216 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             █████████████████░░░░░░░░   67.71 % 
+JavaScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FrontendInterviewQuestion24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2023 01:07:19 UTC
+ Last Updated on 05/09/2023 01:04:28 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
