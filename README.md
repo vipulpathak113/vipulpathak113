@@ -22,6 +22,8 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vipulpathak113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 **🐱 My GitHub Data** 
 
 > 📦 325.9 kB Used in GitHub's Storage 
