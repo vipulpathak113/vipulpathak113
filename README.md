@@ -16,7 +16,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -61,18 +61,18 @@ Sunday                   230 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 38 mins       ███████████████░░░░░░░░░░   61.92 % 
-CSS                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+JavaScript               3 hrs 56 mins       █████████████████░░░░░░░░   67.08 % 
+CSS                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FrontendInterviewQuestion4 hrs 15 mins       █████████████████████████   100.00 % 
+FrontendInterviewQuestion5 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 01:10:44 UTC
+ Last Updated on 30/11/2023 01:10:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
