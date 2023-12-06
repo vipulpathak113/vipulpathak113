@@ -16,9 +16,9 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 > 📦 327.7 kB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2023
+> 🏆 403 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -38,20 +38,20 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 ```text
 🌞 Morning                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-🌆 Daytime                224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-🌃 Evening                506 commits         ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌙 Night                  409 commits         ████████░░░░░░░░░░░░░░░░░   33.75 % 
+🌆 Daytime                224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌃 Evening                507 commits         ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌙 Night                  409 commits         ████████░░░░░░░░░░░░░░░░░   33.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Wednesday                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Thursday                 232 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Friday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Saturday                 82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Sunday                   231 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 232 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Friday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Saturday                 82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Sunday                   231 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 ```
 
 
@@ -61,18 +61,18 @@ Sunday                   231 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 27 mins       █████████████████░░░░░░░░   69.59 % 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JavaScript               4 hrs 16 mins       ████████████████████░░░░░   81.08 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FrontendInterviewQuestion6 hrs 24 mins       █████████████████████████   100.00 % 
+FrontendInterviewQuestion5 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 01:11:30 UTC
+ Last Updated on 06/12/2023 01:11:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
