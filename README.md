@@ -28,8 +28,6 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 > 📦 330.0 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -92,7 +90,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 01:07:24 UTC
+ Last Updated on 29/03/2024 01:07:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
