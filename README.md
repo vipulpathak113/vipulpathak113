@@ -28,6 +28,8 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 > 📦 330.0 kB Used in GitHub's Storage 
  > 
+> 🏆 95 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -61,17 +63,16 @@ Sunday                   249 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 mins              ████████████████████████░   97.30 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Typescript-challenges    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 01:09:00 UTC
+ Last Updated on 03/05/2024 01:13:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
