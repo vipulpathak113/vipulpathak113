@@ -18,7 +18,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,21 +63,21 @@ Sunday                   249 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████░░░░   85.27 % 
-TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JavaScript               31 mins             ███████████████████████░░   92.83 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LYC Web Consumer         16 mins             ████████████████████████░   97.99 % 
-overrides                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+LYC Web Consumer         33 mins             █████████████████████████   99.02 % 
+overrides                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +97,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2024 01:10:39 UTC
+ Last Updated on 19/05/2024 01:15:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
