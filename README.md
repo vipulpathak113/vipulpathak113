@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs<br>⚡ Fun fact **I am a chill person with great humour**.
+Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to learn new stuffs!!<br>⚡ Fun fact **I am a chill person with great humour**.
 
 **Please give stars🌟 to repos if you like or follow my projects 😇**
 
