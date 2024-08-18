@@ -23,7 +23,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -31,7 +31,9 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 
 **🐱 My GitHub Data** 
 
-> 📦 330.1 kB Used in GitHub's Storage 
+> 📦 330.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 113 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -66,16 +68,18 @@ Sunday                   250 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   36 mins             ████████████████████████░   97.98 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+numpy-pandas-learning    37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +99,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 01:17:29 UTC
+ Last Updated on 18/08/2024 01:22:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
