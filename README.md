@@ -23,7 +23,7 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,16 +68,19 @@ Sunday                   251 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   40 mins             █████████████████████████   100.00 % 
+Python                   1 hr 1 min          ███████████████████████░░   90.71 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-transformers-course      40 mins             █████████████████████████   100.00 % 
+restaurantName-lang-chain1 hr 4 mins         ████████████████████████░   94.35 % 
+transformers-course      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +100,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2024 01:20:53 UTC
+ Last Updated on 04/09/2024 01:22:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
