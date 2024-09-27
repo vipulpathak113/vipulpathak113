@@ -23,17 +23,17 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 330.3 kB Used in GitHub's Storage 
+> 📦 356.2 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2024
+> 🏆 144 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,21 +44,21 @@ Hi 👋, I'm Vipul Kumar Pathak<br>💫I am a Programmer and always excited to l
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-🌆 Daytime                263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-🌃 Evening                598 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
-🌙 Night                  481 commits         ████████░░░░░░░░░░░░░░░░░   33.99 % 
+🌞 Morning                73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+🌆 Daytime                263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+🌃 Evening                598 commits         ███████████░░░░░░░░░░░░░░   42.20 % 
+🌙 Night                  483 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Thursday                 262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Friday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Saturday                 100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Monday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Tuesday                  225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Thursday                 262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Friday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Saturday                 100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 ```
 
 
@@ -97,7 +97,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2024 01:26:32 UTC
+ Last Updated on 27/09/2024 01:26:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
