@@ -23,8 +23,6 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
@@ -33,7 +31,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 > 📦 379.4 kB Used in GitHub's Storage 
  > 
-> 🏆 314 Contributions in the Year 2025
+> 🏆 315 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,49 +39,6 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-🌃 Evening                957 commits         █████████████░░░░░░░░░░░░   52.38 % 
-🌙 Night                  512 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Tuesday                  282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Wednesday                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Thursday                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Friday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Sunday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   55 mins             ████████████████████████░   94.92 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-langgraph-chatbot        53 mins             ███████████████████████░░   91.56 % 
-expense-tracker-mcp-serve4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-
-💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +56,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:32:08 UTC
+ Last Updated on 03/10/2025 01:30:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
