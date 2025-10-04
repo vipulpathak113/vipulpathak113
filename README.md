@@ -23,6 +23,8 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
@@ -31,7 +33,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 > 📦 379.4 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2025
+> 🏆 316 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -56,7 +58,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:30:37 UTC
+ Last Updated on 04/10/2025 01:29:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
