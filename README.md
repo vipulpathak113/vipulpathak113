@@ -25,7 +25,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -68,16 +68,16 @@ Sunday                   315 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs               █████████████████████████   99.80 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               2 hrs               █████████████████████████   99.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
 VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jsonata-sandbox          2 hrs               █████████████████████████   99.81 % 
-expense-tracker-mcp-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+jsonata-sandbox          2 hrs               █████████████████████████   99.86 % 
+expense-tracker-mcp-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
 Mac                      2 hrs               █████████████████████████   100.00 % 
@@ -100,7 +100,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 01:32:52 UTC
+ Last Updated on 08/10/2025 01:31:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
