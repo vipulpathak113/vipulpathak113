@@ -23,7 +23,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -68,19 +68,18 @@ Sunday                   315 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        █████████████████████████   99.76 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               59 mins             ████████████████░░░░░░░░░   63.62 % 
+Python                   34 mins             █████████░░░░░░░░░░░░░░░░   36.38 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jsonata-sandbox          1 hr 11 mins        █████████████████████████   99.78 % 
-expense-tracker-mcp-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+jsonata-sandbox          59 mins             ████████████████░░░░░░░░░   63.62 % 
+expense-tracker-mcp-serve34 mins             █████████░░░░░░░░░░░░░░░░   36.38 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +99,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 01:32:15 UTC
+ Last Updated on 10/10/2025 01:34:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
