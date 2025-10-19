@@ -68,8 +68,7 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 min               ████████████████████████░   95.66 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Python                   1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  1 min               █████████████████████████   100.00 % 
@@ -98,7 +97,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 01:29:57 UTC
+ Last Updated on 19/10/2025 01:52:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
