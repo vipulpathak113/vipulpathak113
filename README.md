@@ -68,17 +68,16 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████████████░░░░░░   74.25 % 
-Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-expense-tracker-mcp-serve20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +97,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 01:49:34 UTC
+ Last Updated on 30/10/2025 01:47:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
