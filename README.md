@@ -23,8 +23,6 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
@@ -41,45 +39,6 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌃 Evening                962 commits         █████████████░░░░░░░░░░░░   52.40 % 
-🌙 Night                  516 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Tuesday                  282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Wednesday                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday                   290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Sunday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -97,7 +56,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 01:49:13 UTC
+ Last Updated on 04/11/2025 01:37:30 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
