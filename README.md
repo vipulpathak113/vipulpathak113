@@ -33,7 +33,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 > 📦 379.4 kB Used in GitHub's Storage 
  > 
-> 🏆 323 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -97,7 +97,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 01:55:50 UTC
+ Last Updated on 01/01/2026 02:04:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
