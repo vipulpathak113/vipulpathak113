@@ -68,17 +68,16 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ████████████████████████░   95.88 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-langgraph-chatbot        1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +97,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 02:31:11 UTC
+ Last Updated on 14/02/2026 02:13:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
