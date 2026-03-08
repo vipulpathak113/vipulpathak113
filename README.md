@@ -23,7 +23,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,9 +31,9 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 **🐱 My GitHub Data** 
 
-> 📦 379.5 kB Used in GitHub's Storage 
+> 📦 379.7 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -45,20 +45,20 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 ```text
 🌞 Morning                83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-🌃 Evening                966 commits         █████████████░░░░░░░░░░░░   52.36 % 
-🌙 Night                  521 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+🌃 Evening                967 commits         █████████████░░░░░░░░░░░░   52.38 % 
+🌙 Night                  521 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Tuesday                  282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Wednesday                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Sunday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Wednesday                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Sunday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 ```
 
 
@@ -68,16 +68,19 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 2 mins        ████████████████████████░   97.32 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chatbot-backend          2 hrs 1 min         ████████████████████████░   96.07 % 
+langgraph-chatbot        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +100,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 02:07:37 UTC
+ Last Updated on 08/03/2026 02:18:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
