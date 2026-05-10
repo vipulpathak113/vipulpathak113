@@ -23,7 +23,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,16 +68,21 @@ Sunday                   321 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     9 mins              ███████████░░░░░░░░░░░░░░   42.42 % 
+Other                    7 mins              █████████░░░░░░░░░░░░░░░░   35.78 % 
+Bash                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             ███████████████████░░░░░░   75.02 % 
+Unknown Editor           5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vipul                    12 mins             ███████████████░░░░░░░░░░   58.91 % 
+claude                   8 mins              ██████████░░░░░░░░░░░░░░░   41.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +102,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 02:58:40 UTC
+ Last Updated on 10/05/2026 03:05:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
