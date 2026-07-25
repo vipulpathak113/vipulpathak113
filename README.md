@@ -23,78 +23,30 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 381.8 kB Used in GitHub's Storage 
+> 📦 382.0 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2026
+> 🏆 219 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 87 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-🌆 Daytime                284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-🌃 Evening                1125 commits        ██████████████░░░░░░░░░░░   54.74 % 
-🌙 Night                  561 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  313 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Thursday                 367 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Sunday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 47 mins       ██████████████░░░░░░░░░░░   56.43 % 
-Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-clinic-ui                3 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.56 % 
-chatbot-backend          2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-chatbot-frontend         32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-ai-journey               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-
-💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               38 repos            ████████████░░░░░░░░░░░░░   46.91 % 
-TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               38 repos            ████████████░░░░░░░░░░░░░   46.34 % 
+TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
@@ -104,7 +56,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:49:46 UTC
+ Last Updated on 25/07/2026 02:47:33 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
