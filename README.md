@@ -23,19 +23,15 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 383.3 kB Used in GitHub's Storage 
+> 📦 383.6 kB Used in GitHub's Storage 
  > 
-> 🏆 256 Contributions in the Year 2026
+> 🏆 263 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,76 +39,6 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌃 Evening                1167 commits        ██████████████░░░░░░░░░░░   55.26 % 
-🌙 Night                  568 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Friday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Saturday                 191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Sunday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-MDX                      2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   99.37 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-🐱‍💻 Projects: 
-chatbot-backend          4 hrs               ████████████░░░░░░░░░░░░░   47.61 % 
-ai-journey               3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
-chatbot-frontend         1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-
-💻 Operating System: 
-Mac                      8 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 4 mins (96.07%)
-
-✍️ 6,618 lines written by AI, 2 lines written by hand (99.97% AI-written)
-
-🔤 7,048,972 Input Tokens, 458,532 Output Tokens
-
-💵 $27.88 Estimated AI Cost This Week
-
-🧠 54 AI Sessions, 122 AI Prompts
-
-Deepseek                 6,683 lines         █████████████████████████   99.81 % 
-Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 769 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -130,7 +56,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:41:08 UTC
+ Last Updated on 07/08/2026 02:48:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
