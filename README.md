@@ -23,15 +23,19 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 383.6 kB Used in GitHub's Storage 
+> 📦 383.8 kB Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2026
+> 🏆 265 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,6 +43,76 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+🌃 Evening                1176 commits        ██████████████░░░░░░░░░░░   55.45 % 
+🌙 Night                  568 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 380 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Friday                   332 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+MDX                      2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
+Python                   2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 6 mins        █████████████████████████   99.35 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🐱‍💻 Projects: 
+chatbot-backend          4 hrs 29 mins       ██████████████░░░░░░░░░░░   55.00 % 
+ai-journey               3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+chatbot-frontend         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+
+💻 Operating System: 
+Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 44 mins (94.84%)
+
+✍️ 5,072 lines written by AI, 144 lines written by hand (97.24% AI-written)
+
+🔤 9,286,921 Input Tokens, 513,021 Output Tokens
+
+💵 $35.41 Estimated AI Cost This Week
+
+🧠 54 AI Sessions, 116 AI Prompts
+
+Deepseek                 5,111 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.24% of written lines came from AI
+📄 Detailed Prompter — average 866 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.96% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -56,7 +130,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:48:02 UTC
+ Last Updated on 08/08/2026 01:46:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
