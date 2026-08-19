@@ -23,9 +23,9 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,7 +35,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 > 📦 387.5 kB Used in GitHub's Storage 
  > 
-> 🏆 301 Contributions in the Year 2026
+> 🏆 302 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,19 +47,19 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 ```text
 🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-🌆 Daytime                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-🌃 Evening                1211 commits        ██████████████░░░░░░░░░░░   56.06 % 
-🌙 Night                  570 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+🌆 Daytime                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌃 Evening                1212 commits        ██████████████░░░░░░░░░░░   56.09 % 
+🌙 Night                  570 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 Wednesday                285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Thursday                 382 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Saturday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Thursday                 382 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 Sunday                   350 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 ```
 
@@ -70,45 +70,45 @@ Sunday                   350 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-TypeScript               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Markdown                 3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-MDX                      3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python                   5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Markdown                 4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+TypeScript               3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+MDX                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-journey               8 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.40 % 
-chatbot-backend          7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
-chatbot-frontend         2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+chatbot-backend          9 hrs 22 mins       █████████████░░░░░░░░░░░░   52.89 % 
+ai-journey               6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
+chatbot-frontend         2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 
 💻 Operating System: 
-Mac                      18 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs (98.2%)
+⏱ AI Coding Time: 17 hrs 29 mins (98.74%)
 
-✍️ 17,430 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 14,727 lines written by AI, 58 lines written by hand (99.61% AI-written)
 
-🔤 19,614,351 Input Tokens, 1,641,120 Output Tokens
+🔤 22,379,124 Input Tokens, 1,756,717 Output Tokens
 
-💵 $315.21 Estimated AI Cost This Week
+💵 $504.01 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 235 AI Prompts
+🧠 72 AI Sessions, 241 AI Prompts
 
-Deepseek                 17,816 lines        █████████████████████████   100.00 % 
+Deepseek                 15,054 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,736 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 2,070 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +128,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:21:35 UTC
+ Last Updated on 19/08/2026 01:23:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
