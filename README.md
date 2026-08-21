@@ -23,9 +23,9 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpathak113&size_weight=0&count_weight=0.5&&langs_count=9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,7 +35,7 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 > 📦 387.7 kB Used in GitHub's Storage 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 312 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,20 +47,20 @@ Hi 👋, I'm **Vipul Pathak**<br>💫 I am a Programmer and always excited to le
 
 ```text
 🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-🌆 Daytime                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌃 Evening                1218 commits        ██████████████░░░░░░░░░░░   56.21 % 
-🌙 Night                  570 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+🌆 Daytime                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+🌃 Evening                1219 commits        ██████████████░░░░░░░░░░░   56.15 % 
+🌙 Night                  573 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Thursday                 382 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Saturday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   350 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Thursday                 383 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Friday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Saturday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Sunday                   350 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 ```
 
 
@@ -70,45 +70,45 @@ Sunday                   350 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.27 % 
-Markdown                 4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-TypeScript               3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-MDX                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Python                   6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
+Markdown                 5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+TypeScript               3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+MDX                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatbot-backend          10 hrs 55 mins      ██████████████░░░░░░░░░░░   57.11 % 
-ai-journey               5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-chatbot-frontend         2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+chatbot-backend          11 hrs 43 mins      ███████████████░░░░░░░░░░   59.39 % 
+ai-journey               5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+chatbot-frontend         2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 💻 Operating System: 
-Mac                      19 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 55 mins (98.95%)
+⏱ AI Coding Time: 19 hrs 30 mins (98.82%)
 
-✍️ 14,032 lines written by AI, 57 lines written by hand (99.6% AI-written)
+✍️ 13,505 lines written by AI, 97 lines written by hand (99.29% AI-written)
 
-🔤 23,871,444 Input Tokens, 1,797,578 Output Tokens
+🔤 23,744,369 Input Tokens, 1,711,043 Output Tokens
 
-💵 $579.31 Estimated AI Cost This Week
+💵 $600.62 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 228 AI Prompts
+🧠 42 AI Sessions, 206 AI Prompts
 
-Deepseek                 14,343 lines        █████████████████████████   100.00 % 
+Deepseek                 13,856 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 1,947 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+🤖 AI-Driven — 99.29% of written lines came from AI
+📚 Verbose Prompter — average 1,582 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +128,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 01:21:16 UTC
+ Last Updated on 21/08/2026 01:25:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
