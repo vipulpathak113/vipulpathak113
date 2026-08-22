@@ -16,6 +16,7 @@
 
 ## 💻 `$ whoami`
 
+<!--START_SECTION:uptime-->
 ```bash
 $ whoami
 vipul --frontend-engineer --genai-builder
@@ -26,9 +27,6 @@ $ cat ~/about.md
 > Believes chatbots deserve good UX too.
 
 $ uptime --fun
-```
-<!--START_SECTION:uptime-->
-```bash
 318+ hrs of code time · 6.13M lines written · 99% AI co-authored · humor module: enabled
 ```
 <!--END_SECTION:uptime-->
@@ -92,6 +90,10 @@ $ uptime --fun
 | [**tensorFlow**](https://github.com/vipulpathak113/tensorFlow) | Handwritten digit recognition (MNIST) | `TensorFlow.js` |
 | [**Object-Detection**](https://github.com/vipulpathak113/Object-Detection) | Live object detection in the browser | `COCO-SSD` `TF.js` `React` |
 | [**Image-Classification**](https://github.com/vipulpathak113/Image-Classification) | MobileNet image classifier | `ML5.js` |
+| **chatbot-backend + chatbot-frontend** 🔒 | Active build — LLM assistant service + React client | `LangGraph` `LLMs` `React` |
+| **ai-journey** 🔒 | GenAI experiments, notes & model playground | `Python` |
+| **chatbot-backend + chatbot-frontend** 🔒 | Active build — LLM assistant service + React client | `LangGraph` `LLMs` `React` |
+| **ai-journey** 🔒 | GenAI experiments, notes & model playground | `Python` |
 
 </details>
 
@@ -195,6 +197,8 @@ $ uptime --fun
 | [**react-unit-testing**](https://github.com/vipulpathak113/react-unit-testing) ![⭐](https://img.shields.io/github/stars/vipulpathak113/react-unit-testing?style=social&label=%E2%98%85) | Jest + RTL patterns that made testing click | `Jest` `RTL` |
 | [**FrontendInterviewQuestions**](https://github.com/vipulpathak113/FrontendInterviewQuestions) ![⭐](https://img.shields.io/github/stars/vipulpathak113/FrontendInterviewQuestions?style=social&label=%E2%98%85) | Frontend interview bank, community-approved | `JavaScript` |
 | [**vscode-portfolio**](https://github.com/vipulpathak113/vscode-portfolio) | My portfolio disguised as a VS Code window | `React` |
+| [**set-state-callback**](https://github.com/vipulpathak113/set-state-callback) | Published npm package — setState callback ergonomics for hooks | `npm` `React` |
+| [**react-accessibility**](https://github.com/vipulpathak113/react-accessibility) | Live accessibility best-practices reference site | `TypeScript` `A11y` |
 
 ---
 

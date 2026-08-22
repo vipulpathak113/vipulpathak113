@@ -50,10 +50,10 @@ def main() -> None:
     )
 
     pattern = re.compile(
-        r"(<!--START_SECTION:uptime-->\n```bash\n).*?(\n```\n<!--END_SECTION:uptime-->)",
-        re.DOTALL,
+        r"(?m)^(\d+\+ hrs of code time \u00b7 \d+(?:\.\d+)?M lines written "
+        r"\u00b7 \d+% AI co-authored \u00b7 )humor module: enabled$"
     )
-    updated, n = pattern.subn(lambda m: m.group(1) + new_line + m.group(2), readme)
+    updated, n = pattern.subn(new_line.replace("\\", "\\\\"), readme)
     if n != 1:
         print("uptime section not found exactly once; skipping", file=sys.stderr)
         sys.exit(0)
