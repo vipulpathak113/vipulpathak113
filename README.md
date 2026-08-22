@@ -204,11 +204,11 @@ $ uptime --fun
 
 <div align="center">
 <table><tr>
-<td><img src="./profile-summary-card-output/github-dark/stats.svg" alt="GitHub stats"/></td>
-<td><img src="./profile-summary-card-output/github-dark/repos-per-language.svg" alt="Repos per language"/></td>
+<td><img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/></td>
+<td><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language"/></td>
 </tr><tr>
-<td><img src="./profile-summary-card-output/github-dark/productive-time.svg" alt="Productive time"/></td>
-<td><img src="./profile-summary-card-output/github-dark/most-commit-language.svg" alt="Most committed languages"/></td>
+<td><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time"/></td>
+<td><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages"/></td>
 </tr></table>
 
 <img src="https://streak-stats.demolab.com/?user=vipulpathak113&background=0d1117&border=30363d&stroke=30363d&ring=4AF626&fire=FF7B72&currStreakLabel=4AF626&currStreakNum=e6edf3&sideLabels=8b949e&sideNums=e6edf3&dates=8b949e&hide_border=false" alt="Streak stats"/>
