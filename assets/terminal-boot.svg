@@ -1,0 +1,66 @@
+<svg width="800" height="380" viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal booting Vipul's profile" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+  <title>vipul@github:~ — boot sequence</title>
+
+  <defs>
+    <clipPath id="c1"><rect x="36" y="73" height="24" width="0"><animate attributeName="width" to="90" dur="0.5s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="36" y="105" height="24" width="0"><animate attributeName="width" to="455" dur="0.9s" begin="1.1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="36" y="137" height="24" width="0"><animate attributeName="width" to="170" dur="0.7s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="36" y="169" height="24" width="0"><animate attributeName="width" to="485" dur="0.85s" begin="3.1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="36" y="201" height="24" width="0"><animate attributeName="width" to="365" dur="0.75s" begin="4.15s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="36" y="233" height="24" width="0"><animate attributeName="width" to="320" dur="0.8s" begin="5.1s" fill="freeze"/></rect></clipPath>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.4" y="0" fill="#ffffff" opacity="0.02"/>
+    </pattern>
+  </defs>
+
+  <!-- drop shadow -->
+  <rect x="20" y="24" width="780" height="346" rx="16" fill="#000000" opacity="0.4"/>
+  <!-- window -->
+  <rect x="10" y="10" width="780" height="346" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <!-- title bar -->
+  <path d="M10 26 a16 16 0 0 1 16 -16 h748 a16 16 0 0 1 16 16 v16 h-780 z" fill="#161b22"/>
+  <line x1="10" y1="42.5" x2="790" y2="42.5" stroke="#21262d" stroke-width="1"/>
+  <circle cx="38" cy="26" r="6.5" fill="#ff5f56"/>
+  <circle cx="62" cy="26" r="6.5" fill="#ffbd2e"/>
+  <circle cx="86" cy="26" r="6.5" fill="#27c93f"/>
+  <text x="400" y="30.5" text-anchor="middle" font-size="12.5" fill="#8b949e">vipul@github:~ &#8212; zsh</text>
+
+  <!-- boot sequence -->
+  <g clip-path="url(#c1)">
+    <text x="38" y="88" font-size="15" font-weight="600"><tspan fill="#4AF626">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text x="38" y="120" font-size="15"><tspan fill="#79c0ff" font-weight="700">Vipul Pathak</tspan><tspan fill="#8b949e"> &#183; Frontend Engineer &#215; GenAI Builder</tspan></text>
+  </g>
+  <g clip-path="url(#c3)">
+    <text x="38" y="152" font-size="15" font-weight="600"><tspan fill="#4AF626">$</tspan><tspan fill="#e6edf3"> cat ~/focus.txt</tspan></text>
+  </g>
+  <g clip-path="url(#c4)">
+    <text x="38" y="184" font-size="15"><tspan fill="#4AF626">&#9656;</tspan><tspan fill="#e6edf3"> building LLM agents + MCP servers + RAG pipelines</tspan></text>
+  </g>
+  <g clip-path="url(#c5)">
+    <text x="38" y="216" font-size="15"><tspan fill="#4AF626">&#9656;</tspan><tspan fill="#e6edf3"> crafting React apps that feel alive</tspan></text>
+  </g>
+  <g clip-path="url(#c6)">
+    <text x="38" y="248" font-size="15" font-weight="600"><tspan fill="#4AF626">$</tspan><tspan fill="#e6edf3"> ./init_profile.sh </tspan><tspan fill="#d2a8ff">--theme=nerdy</tspan></text>
+  </g>
+
+  <!-- boot progress -->
+  <text x="38" y="280" font-size="14" fill="#8b949e" opacity="0"><animate attributeName="opacity" to="1" dur="0.01s" begin="5.95s" fill="freeze"/>[boot]</text>
+  <rect x="100" y="265" width="230" height="17" rx="3" fill="#161b22" stroke="#30363d" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.01s" begin="5.95s" fill="freeze"/>
+  </rect>
+  <rect x="103" y="268" width="0" height="11" rx="2" fill="#4AF626">
+    <animate attributeName="width" to="224" dur="1.3s" begin="6.0s" fill="freeze"/>
+  </rect>
+  <text x="340" y="279" font-size="13.5" font-weight="700" fill="#4AF626" opacity="0"><animate attributeName="opacity" to="1" dur="0.01s" begin="7.4s" fill="freeze"/>100% &#10003;</text>
+
+  <!-- idle prompt + blinking cursor -->
+  <text x="38" y="316" font-size="15" font-weight="600" fill="#4AF626">$</text>
+  <rect x="56" y="301" width="11" height="21" fill="#4AF626">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5001;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CRT scanlines -->
+  <rect x="11" y="43" width="778" height="312" fill="url(#scan)"/>
+</svg>

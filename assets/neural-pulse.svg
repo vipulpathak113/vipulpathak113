@@ -1,0 +1,51 @@
+<svg width="300" height="220" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neural network firing" font-family="monospace">
+  <title>neural net go brrr</title>
+
+  <!-- synapses -->
+  <g stroke="#4AF626" stroke-opacity="0.16" stroke-width="1.5">
+    <line x1="40" y1="55"  x2="150" y2="35"/>
+    <line x1="40" y1="55"  x2="150" y2="85"/>
+    <line x1="40" y1="110" x2="150" y2="85"/>
+    <line x1="40" y1="110" x2="150" y2="135"/>
+    <line x1="40" y1="165" x2="150" y2="135"/>
+    <line x1="40" y1="165" x2="150" y2="185"/>
+    <line x1="150" y1="35"  x2="260" y2="80"/>
+    <line x1="150" y1="85"  x2="260" y2="80"/>
+    <line x1="150" y1="85"  x2="260" y2="140"/>
+    <line x1="150" y1="135" x2="260" y2="140"/>
+    <line x1="150" y1="185" x2="260" y2="140"/>
+  </g>
+
+  <!-- input layer -->
+  <g fill="#58A6FF">
+    <circle cx="40" cy="55"><animate attributeName="r" values="5;7;5" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="110"><animate attributeName="r" values="5;7;5" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="165"><animate attributeName="r" values="5;7;5" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- hidden layer -->
+  <g fill="#4AF626">
+    <circle cx="150" cy="35"><animate attributeName="r" values="5.5;7.5;5.5" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="85"><animate attributeName="r" values="5.5;7.5;5.5" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="135"><animate attributeName="r" values="5.5;7.5;5.5" dur="2.4s" begin="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="185"><animate attributeName="r" values="5.5;7.5;5.5" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- output layer -->
+  <g fill="#D2A8FF">
+    <circle cx="260" cy="80"><animate attributeName="r" values="6;8.5;6" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="140"><animate attributeName="r" values="6;8.5;6" dur="2.4s" begin="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- action potentials -->
+  <circle r="3.2" fill="#4AF626" opacity="0.95">
+    <animateMotion path="M40,55 L150,85 L260,80" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.2" fill="#58A6FF" opacity="0.95">
+    <animateMotion path="M40,165 L150,135 L260,140" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.1;0.85;1" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.2" fill="#D2A8FF" opacity="0.95">
+    <animateMotion path="M40,110 L150,85 L260,80" dur="3.4s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
