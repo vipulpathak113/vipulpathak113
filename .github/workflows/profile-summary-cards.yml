@@ -2,7 +2,7 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 1 * * 0" # weekly, Sundays 01:00 UTC
+    - cron: "23 1 * * *" # daily, 01:23 UTC (off-peak so it never collides with the 00:00 crowd)
   workflow_dispatch:
 
 permissions:

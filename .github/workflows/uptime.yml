@@ -26,4 +26,5 @@ jobs:
           git add README.md
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: refresh uptime --fun metrics"
+          git pull --rebase --autostash origin master
           git push
