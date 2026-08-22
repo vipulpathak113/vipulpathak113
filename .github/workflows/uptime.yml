@@ -19,12 +19,17 @@ jobs:
       - name: Update uptime line from WakaTime stats
         run: python3 .github/scripts/update_uptime.py
 
+      - name: Dark-mode WakaTime LOC chart
+        run: |
+          python3 -m pip install --quiet pillow
+          python3 .github/scripts/darken_loc_chart.py
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/bar_graph.png
           git diff --cached --quiet && echo "no changes" && exit 0
-          git commit -m "chore: refresh uptime --fun metrics"
+          git commit -m "chore: refresh uptime metrics + dark LOC chart"
           git pull --rebase --autostash origin master
           git push
