@@ -250,9 +250,9 @@ $ uptime --fun
 
 **🐱 My GitHub Data** 
 
-> 📦 397.8 kB Used in GitHub's Storage 
+> 📦 398.2 kB Used in GitHub's Storage 
  > 
-> 🏆 378 Contributions in the Year 2026
+> 🏆 381 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -263,21 +263,21 @@ $ uptime --fun
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-🌆 Daytime                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-🌃 Evening                1239 commits        ██████████████░░░░░░░░░░░   55.36 % 
-🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌃 Evening                1240 commits        ██████████████░░░░░░░░░░░   55.33 % 
+🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Friday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Sunday                   365 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Monday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Sunday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 ```
 
 
@@ -287,50 +287,50 @@ Sunday                   365 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
-TypeScript               8 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-MDX                      6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-JavaScript               5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Python                   4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Markdown                 13 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
+MDX                      5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+TypeScript               5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+JavaScript               4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Other                    4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 34 mins      █████████████████████████   99.21 % 
-Opencode Cli             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+VS Code                  36 hrs 22 mins      █████████████████████████   99.01 % 
+Opencode Cli             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🐱‍💻 Projects: 
-ai-journey               28 hrs 9 mins       ███████████████░░░░░░░░░░   61.31 % 
-chatbot-backend          11 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-chatbot-frontend         5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-vipulpathak113           54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+ai-journey               25 hrs 15 mins      █████████████████░░░░░░░░   68.72 % 
+chatbot-backend          9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+chatbot-frontend         2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+vipulpathak113           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      45 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 11 mins (98.38%)
+⏱ AI Coding Time: 36 hrs 10 mins (98.47%)
 
-✍️ 12,672 lines written by AI, 229 lines written by hand (98.22% AI-written)
+✍️ 8,493 lines written by AI, 163 lines written by hand (98.12% AI-written)
 
-🔤 61,087,969 Input Tokens, 2,210,365 Output Tokens
+🔤 53,754,635 Input Tokens, 1,808,758 Output Tokens
 
-💵 $3315.30 Estimated AI Cost This Week
+💵 $2649.08 Estimated AI Cost This Week
 
-🧠 168 AI Sessions, 586 AI Prompts
+🧠 163 AI Sessions, 499 AI Prompts
 
-Opencode-Cli             12,221 lines        ██████████████████████░░░   88.80 % 
-Deepseek                 776 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Spark                    690 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Mimo                     68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Gemini                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Opencode-Cli             7,962 lines         █████████████████████░░░░   83.78 % 
+Deepseek                 776 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Spark                    690 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Mimo                     68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Gemini                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📄 Detailed Prompter — average 1,087 characters per prompt
+🤖 AI-Driven — 98.12% of written lines came from AI
+📄 Detailed Prompter — average 1,202 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.78% of changed lines were hand-edited
+🚀 High AI Trust — 1.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -350,7 +350,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 04:04:44 UTC
+ Last Updated on 31/08/2026 04:09:53 UTC
 <!--END_SECTION:waka-->
 
 ---
