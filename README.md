@@ -250,9 +250,9 @@ $ uptime --fun
 
 **🐱 My GitHub Data** 
 
-> 📦 398.2 kB Used in GitHub's Storage 
+> 📦 398.0 kB Used in GitHub's Storage 
  > 
-> 🏆 381 Contributions in the Year 2026
+> 🏆 382 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -264,20 +264,20 @@ $ uptime --fun
 
 ```text
 🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌃 Evening                1240 commits        ██████████████░░░░░░░░░░░   55.33 % 
-🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌃 Evening                1241 commits        ██████████████░░░░░░░░░░░   55.35 % 
+🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Friday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Friday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Sunday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 ```
 
 
@@ -287,50 +287,50 @@ Sunday                   368 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 13 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-MDX                      5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-TypeScript               5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JavaScript               4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Other                    4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Markdown                 9 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
+MDX                      4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Other                    3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+TypeScript               3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JavaScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 22 mins      █████████████████████████   99.01 % 
-Opencode Cli             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  25 hrs 28 mins      █████████████████████████   98.59 % 
+Opencode Cli             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 Projects: 
-ai-journey               25 hrs 15 mins      █████████████████░░░░░░░░   68.72 % 
-chatbot-backend          9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-chatbot-frontend         2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+ai-journey               16 hrs 42 mins      ████████████████░░░░░░░░░   64.65 % 
+chatbot-backend          7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+chatbot-frontend         1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 vipulpathak113           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 10 mins (98.47%)
+⏱ AI Coding Time: 25 hrs 39 mins (99.31%)
 
-✍️ 8,493 lines written by AI, 163 lines written by hand (98.12% AI-written)
+✍️ 3,461 lines written by AI, 84 lines written by hand (97.63% AI-written)
 
-🔤 53,754,635 Input Tokens, 1,808,758 Output Tokens
+🔤 38,648,908 Input Tokens, 1,361,666 Output Tokens
 
-💵 $2649.08 Estimated AI Cost This Week
+💵 $2035.83 Estimated AI Cost This Week
 
-🧠 163 AI Sessions, 499 AI Prompts
+🧠 107 AI Sessions, 343 AI Prompts
 
-Opencode-Cli             7,962 lines         █████████████████████░░░░   83.78 % 
-Deepseek                 776 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Spark                    690 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Mimo                     68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Gemini                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Opencode-Cli             2,932 lines         ████████████████░░░░░░░░░   65.53 % 
+Deepseek                 776 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Spark                    690 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Mimo                     68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Gemini                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
-📄 Detailed Prompter — average 1,202 characters per prompt
+🤖 AI-Driven — 97.63% of written lines came from AI
+📄 Detailed Prompter — average 1,198 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.92% of changed lines were hand-edited
+🚀 High AI Trust — 2.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -350,7 +350,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 04:09:53 UTC
+ Last Updated on 01/09/2026 03:58:51 UTC
 <!--END_SECTION:waka-->
 
 ---
