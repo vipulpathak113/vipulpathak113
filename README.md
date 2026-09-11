@@ -240,9 +240,9 @@ $ uptime --fun
 ## ⏱️ `$ tail -f /var/log/dev-metrics.log`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -250,9 +250,9 @@ $ uptime --fun
 
 **🐱 My GitHub Data** 
 
-> 📦 397.5 kB Used in GitHub's Storage 
+> 📦 397.7 kB Used in GitHub's Storage 
  > 
-> 🏆 465 Contributions in the Year 2026
+> 🏆 467 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -264,20 +264,20 @@ $ uptime --fun
 
 ```text
 🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-🌆 Daytime                601 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌃 Evening                2268 commits        ███████████████░░░░░░░░░░   61.12 % 
-🌙 Night                  755 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌆 Daytime                601 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+🌃 Evening                2270 commits        ███████████████░░░░░░░░░░   61.14 % 
+🌙 Night                  755 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Monday                   504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Wednesday                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 Friday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Sunday                   767 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Saturday                 378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Sunday                   767 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 
 
@@ -287,47 +287,46 @@ Sunday                   767 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 28 hrs 17 mins      ██████████████░░░░░░░░░░░   56.50 % 
-TypeScript               8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-MDX                      5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Python                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-CSS                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 27 hrs 18 mins      ██████████████░░░░░░░░░░░   54.42 % 
+TypeScript               9 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+MDX                      5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Python                   4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+CSS                      2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Codex Vscode             29 hrs 2 mins       ███████████████░░░░░░░░░░   58.02 % 
-VS Code                  21 hrs              ██████████░░░░░░░░░░░░░░░   41.98 % 
+Codex Vscode             26 hrs 56 mins      █████████████░░░░░░░░░░░░   53.70 % 
+VS Code                  23 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.30 % 
 
 🐱‍💻 Projects: 
-ai-journey               18 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   36.99 % 
-chatbot-frontend         16 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-chatbot-backend          15 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.76 % 
-vipulpathak113           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ai-journey               20 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+chatbot-frontend         17 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   34.88 % 
+chatbot-backend          12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 
 💻 Operating System: 
-Mac                      50 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      50 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 17 mins (98.45%)
+⏱ AI Coding Time: 49 hrs 26 mins (98.55%)
 
-✍️ 30,275 lines written by AI, 111 lines written by hand (99.63% AI-written)
+✍️ 25,736 lines written by AI, 115 lines written by hand (99.56% AI-written)
 
-🔤 100,739,606 Input Tokens, 7,143,522 Output Tokens
+🔤 104,096,470 Input Tokens, 7,143,812 Output Tokens
 
-💵 $380.49 Estimated AI Cost This Week
+💵 $390.29 Estimated AI Cost This Week
 
-🧠 227 AI Sessions, 1256 AI Prompts
+🧠 248 AI Sessions, 1280 AI Prompts
 
-GPT                      31,415 lines        █████████████████████████   98.37 % 
-Codex-Vscode             522 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+GPT                      26,512 lines        ████████████████████████░   97.92 % 
+Codex-Vscode             562 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 97,070 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.49% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📚 Verbose Prompter — average 104,157 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -347,7 +346,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 03:30:51 UTC
+ Last Updated on 11/09/2026 03:27:49 UTC
 <!--END_SECTION:waka-->
 
 ---
