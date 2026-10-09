@@ -250,9 +250,9 @@ $ uptime --fun
 
 **🐱 My GitHub Data** 
 
-> 📦 398.2 kB Used in GitHub's Storage 
+> 📦 398.9 kB Used in GitHub's Storage 
  > 
-> 🏆 503 Contributions in the Year 2026
+> 🏆 504 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -264,20 +264,20 @@ $ uptime --fun
 
 ```text
 🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-🌆 Daytime                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-🌃 Evening                2324 commits        ███████████████░░░░░░░░░░   61.16 % 
+🌆 Daytime                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+🌃 Evening                2325 commits        ███████████████░░░░░░░░░░   61.17 % 
 🌙 Night                  756 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Tuesday                  495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 Wednesday                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Thursday                 577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Sunday                   810 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Thursday                 578 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Saturday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   810 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
 ```
 
 
@@ -287,43 +287,43 @@ Sunday                   810 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 7 mins       █████████████████░░░░░░░░   67.32 % 
-Markdown                 4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-MDX                      2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    13 hrs 28 mins      ██████████████████░░░░░░░   72.69 % 
+Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+MDX                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 42 mins      ██████████████████████░░░   86.49 % 
-Codex Vscode             3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+VS Code                  16 hrs 17 mins      ██████████████████████░░░   87.93 % 
+Codex Vscode             2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 
 🐱‍💻 Projects: 
-ai-journey               23 hrs 55 mins      █████████████████████████   99.93 % 
-chatbot-backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+ai-journey               18 hrs 31 mins      █████████████████████████   99.91 % 
+chatbot-backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      23 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 32 mins (100.0%)
 
-✍️ 256 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 216 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,716,726 Input Tokens, 364,973 Output Tokens
+🔤 3,929,222 Input Tokens, 321,904 Output Tokens
 
-💵 $94.49 Estimated AI Cost This Week
+💵 $85.79 Estimated AI Cost This Week
 
-🧠 117 AI Sessions, 436 AI Prompts
+🧠 92 AI Sessions, 331 AI Prompts
 
-GPT                      195 lines           █████████████████░░░░░░░░   67.24 % 
-Codex-Vscode             95 lines            ████████░░░░░░░░░░░░░░░░░   32.76 % 
+GPT                      167 lines           █████████████████░░░░░░░░   66.80 % 
+Codex-Vscode             83 lines            ████████░░░░░░░░░░░░░░░░░   33.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 23,661 characters per prompt
+📚 Verbose Prompter — average 24,808 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -345,7 +345,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vipulpathak113/vipulpathak113/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 04:56:45 UTC
+ Last Updated on 09/10/2026 05:00:02 UTC
 <!--END_SECTION:waka-->
 
 ---
